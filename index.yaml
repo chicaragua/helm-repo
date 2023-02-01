@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2023-02-01T16:32:30.510025633Z"
+entries:
+  first-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-01T16:52:30.450550251Z"
+    description: A Helm chart for Kubernetes
+    digest: 552865cf54ce3f61adae065b21aa501c2fba49238362c2cca8afc19c2895ad2f
+    name: first-app
+    type: application
+    urls:
+    - https://chicaragua.github.io/helm-repo/helm-relases/first-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-01T16:52:30.443176052Z"
